@@ -1,0 +1,5 @@
+package calcdistance
+
+func init() {
+
+}
