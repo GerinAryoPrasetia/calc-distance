@@ -31,6 +31,12 @@ func main() {
     fmt.Println(calcdistance.Distance(tokyo, jakarta, "K"))
 }
 ```
+```
+Units :
+'M' is statute miles (default)                         
+'K' is kilometers                               
+'N' is nautical miles  
+```
 
 ## Testing
 
